@@ -9,3 +9,8 @@ header{
     display: grid;
     place-items: center;
 }
+
+footer{
+    display: grid;
+    place-items: center;
+}
